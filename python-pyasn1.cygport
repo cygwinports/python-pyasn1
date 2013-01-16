@@ -1,0 +1,9 @@
+inherit distutils
+
+NAME="python-pyasn1"
+VERSION=0.1.6
+RELEASE=1
+CATEGORY="Python"
+SUMMARY="Python ASN.1 library"
+DESCRIPTION="ASN.1 types and codecs (BER, CER, DER) implemented as a Python
+library module."

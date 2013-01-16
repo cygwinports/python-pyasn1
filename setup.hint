@@ -1,5 +1,0 @@
-category: Python
-requires: python
-sdesc: "Python ASN.1 library"
-ldesc: "ASN.1 types and codecs (BER, CER, DER) implemented as a Python 
-library module."
